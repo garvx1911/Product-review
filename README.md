@@ -3,8 +3,9 @@
 Welcome to the Product Review Platform built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
 
 ## Submitted by
-Garv Chaturvedi - 2201330100107
-Saumya Bharti - 2201330100239
+- Garv Chaturvedi - 2201330100107
+- Saumya Bharti - 2201330100239
+- Abhishek Yadav - 2201330100014
 
 ## Features
 
